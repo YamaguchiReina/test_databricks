@@ -5,4 +5,13 @@ sources:
     catalog: dev_first_usecase
     schema: bronze
     tables:
+      - name: bronze_mst_account
+      - name: bronze_mst_category
+      - name: bronze_mst_costcenter
+      - name: bronze_mst_entity
+      - name: bronze_mst_expensetype
+      - name: bronze_mst_product
+      - name: bronze_mst_sap
+      - name: bronze_mst_time
+      - name: bronze_trn_sactona
       - name: bronze_trn_sap
