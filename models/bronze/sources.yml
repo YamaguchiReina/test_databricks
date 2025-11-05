@@ -1,0 +1,7 @@
+version: 2
+ 
+sources:
+  - name: dev_first_usecase
+    schema: bronze
+    tables:
+      - name: bronze_trn_sap
