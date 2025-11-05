@@ -2,7 +2,7 @@
   materialized='table',
   catalog='dev_first_usecase',
   schema='silver',
-  alias='silver_sbt_sap'
+  alias='silver_dbt_sap'
 ) }}
 
 
